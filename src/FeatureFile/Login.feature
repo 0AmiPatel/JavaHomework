@@ -13,4 +13,3 @@ Feature: Log in
     When User  enters invalid username
     And User enters valid password
     Then user should not be able to logged in
-      
